@@ -3,6 +3,12 @@ Script that accepts text-serialized tree and prints it in a manner [ascitree](ht
 
 ## Usage
 
+### Pull the repo
+```shell
+git clone git@github.com:Agitolyev/asciitree-print.git
+cd asciitree-print
+```
+
 ### Run using docker-compose:
 
 ```shell
