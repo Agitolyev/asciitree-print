@@ -52,4 +52,4 @@ if __name__ == '__main__':
     parser.add_argument('--text', type=str, help='String-serialized tree')
 
     args = parser.parse_args()
-
+    print_tree(args.text)
